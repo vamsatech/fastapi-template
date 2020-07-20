@@ -44,7 +44,7 @@ CORS_ALLOW_METHODS = [
 
 MONGODB_NAME = 'omegle'
 
-MONGODB_URL='mongodb+srv://mydbuserlol:wxa5Fjvr2XyrUfAh@cluster0-jodr9.mongodb.net/omegle?retryWrites=true&w=majority'
+MONGODB_URL='mongodb+srv://mydbuserlol:wxa5Fjkr2X6rUfAh@cluster1-jodr9.mongodb.net/omegle?retryWrites=true&w=majority'
 
 MAX_POOL_SIZE=10
 
