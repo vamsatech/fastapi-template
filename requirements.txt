@@ -6,7 +6,7 @@ import-env-file==2019.6.29
 motor==2.1.0
 passlib==1.7.2
 pydantic==1.5.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymongo==3.10.1
 starlette==0.13.4
 uvicorn==0.11.7
